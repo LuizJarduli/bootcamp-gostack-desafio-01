@@ -54,7 +54,7 @@ foram	feitas	na	aplicação	até	então;
 
 Esse	desafio	 **não	precisa	ser	entregue** 	e	não	receberá	correção,	mas
 você	pode	ver	o	resultado	do	código	do	desafio	aqui:
-https://github.com/Rocketseat/bootcamp-gostack-desafio-
+https://github.com/Rocketseat/bootcamp-gostack-desafio-01
 
 Após	concluir	o	desafio,	adicionar	esse	código	ao	seu	Github	é	uma	boa
 forma	de	demonstrar	seus	conhecimentos	para	oportunidades	futuras.
